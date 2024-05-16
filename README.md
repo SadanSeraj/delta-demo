@@ -6,3 +6,6 @@ Sadan Seraj
 
 # Student
 Redmi
+
+# Total Student
+50
